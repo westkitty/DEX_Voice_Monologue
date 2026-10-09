@@ -1,0 +1,6 @@
+{
+  "name": "DEX//VOICE — The Dexter Monologue Engine",
+  "description": "Synthesize full scripts into a continuous, rapid Victorian British monologue in one locked voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

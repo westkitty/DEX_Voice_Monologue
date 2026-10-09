@@ -1,0 +1,10 @@
+{
+  "id": "voice_ly0vxtgwdelf",
+  "display_name": "Dexter — Victorian Gentleman",
+  "model": "gemini-3.8-flash-tts",
+  "gender": "male",
+  "language_code": "en-GB",
+  "description": "An elderly Victorian-era English aristocratic gentleman with a deep, aged masculine baritone, dry gravelly chest resonance, crisp consonants, clipped syllables, cultivated nineteenth-century-style British Received Pronunciation, precise enunciation, non-breathy vocal texture, narrow controlled inflection, stern authority, dry sarcasm, exceptional intelligence and profoundly impatient contempt. Unmistakably elderly, formal, aristocratic and male. Not cartoonish, theatrical, melodramatic, youthful, American or an audiobook announcer.",
+  "style": "Extremely rapid, continuous, tightly articulated spoken narration, targeting approximately 300 words per minute; dry, stern, deadpan and sarcastic, with virtually no pauses, no audible breathing and no theatrical delivery.",
+  "createdAt": "2026-10-09T00:43:21.552Z"
+}
